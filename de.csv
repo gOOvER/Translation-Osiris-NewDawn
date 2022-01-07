@@ -95,9 +95,9 @@
 "Server Name","Servername";
 "Rules","Regeln";
 "Days Left","Tage übrig";
-"Players In World","Spieler in der Welt.";
-"Players In Universe","Spieler im Universum.";
-"US East","US Ost.";
+"Players In World","Spieler in der Welt";
+"Players In Universe","Spieler im Universum";
+"US East","US Ost";
 "Canada","Kanada";
 "Asia","Asien";
 "Europe","Europa";
@@ -107,7 +107,7 @@
 "Favorite","Favorit";
 "Join","Beitreten";
 "Refresh","Aktualisieren";
-"Colony Defense Lobby","Kolonie-Verteidigungs-Lobby.";
+"Colony Defense Lobby","Kolonie-Verteidigungs-Lobby";
 "<color=#00FFFF><size=24>U.N.E. Team Ziele</size></color>
 
 <color=#FFFFFF>Verteidigen Sie Ihre Siedlung, bis der Timer abgelaufen ist. Wenn am Ende des Spiels alle Ihre Gebäude noch stehen, haben Sie gewonnen!</color>
@@ -136,9 +136,9 @@
 "UNIVERSE","UNIVERSUM";
 "Creator","Ersteller";
 "RULES","REGELN";
-"Players in world","Spieler in der Welt.";
-"Players in universe","Spieler im Universum.";
-"Players with Access","Spieler mit Zugang.";
+"Players in world","Spieler in der Welt";
+"Players in universe","Spieler im Universum";
+"Players with Access","Spieler mit Zugang";
 "No Private Universes to Join.
 Create a New Universe and Invite Your Friends To Join!","Keine privaten Universen vorhanden, um sich anzuschließen.
 Erstellen Sie ein neues Universum und laden Sie Ihre Freunde ein, sich Ihnen anzuschließen!";
@@ -161,8 +161,8 @@ Erstellen Sie ein neues Universum und laden Sie Ihre Freunde ein, sich Ihnen anz
 "Make your Osiris experience perfect for you!","Machen Sie Ihr Osiris-Erlebnis perfekt für Sie!";
 "Delete","Löschen";
 "Invite
-Players","Einladen
-Spieler";
+Players","Spieler
+einladen";
 "Update","Aktualisieren";
 "Advanced Customization","Erweiterte Anpassung.";
 "Player","Spieler";
@@ -182,8 +182,8 @@ Damage","Fall-
 Schaden";
 "Crash 
 Items","Absturz
-Artikel";
-"Stamina Penalty Duration","Ausdauer-Strafdauer.";
+Gegenstände";
+"Stamina Penalty Duration","Ausdauer-Strafdauer";
 "No Stamina Speed","Keine Ausdauergeschwindigkeit";
 "Hover Fuel
 Consumption","Hover Kraftstoff-
@@ -192,14 +192,14 @@ verbrauch";
 Duration","Schweben
 Dauer";
 "Vehicle Fuel
-Consumption","Fahrzeugbrennstoff.
+Consumption","Fahrzeugbrennstoff
 Verbrauch";
 "Tool/Weapon 
 Decay Rate","Werkzeug / Waffe
 Zerfallsrate";
-"Structure Decay Speed","Struktur Zerfallgeschwindigkeit.";
-"Inventory Weight","Inventargewicht.";
-"Item Stack Size","Artikel-Stapel-Größe.";
+"Structure Decay Speed","Struktur Zerfallgeschwindigkeit";
+"Inventory Weight","Inventargewicht";
+"Item Stack Size","Gegenstand-Stapel-Größe";
 "Encumberance Penalty","Belastung der Strafe";
 "Creative Mode
 (Infinite Resources and Unlocks)","Kreativmodus
