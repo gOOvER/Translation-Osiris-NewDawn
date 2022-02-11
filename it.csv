@@ -1,4 +1,4 @@
-"English","Translated;"
+"English","Deutsch;"
 "Enter","Enter"
 "OK","OK"
 "Public Universes","Public Universes"
@@ -108,29 +108,29 @@
 "Join","Join"
 "Refresh","Refresh"
 "Colony Defense Lobby","Colony Defense Lobby"
-"<color=#00FFFF><size=24>U.N.E. Team Objective</size></color>
+"<color=#00FFFF><size=24>U.N.E. Team Ziele</size></color>
 
-<color=#FFFFFF>Defend your settlement until the timer runs out. At the end of the game, if All of your structures are still standing, You win!</color>
+<color=#FFFFFF>Verteidigen Sie Ihre Siedlung, bis der Timer abgelaufen ist. Wenn am Ende des Spiels alle Ihre Gebäude noch stehen, haben Sie gewonnen!</color>
 
-<color=#B4B4B4>Hint: Win early by destroying all of the Outlander Inflatable Domes</color>
-
-
-<color=#00FFFF><size=24>Outlander Team Objective:</size></color>
-
-<color=#FFFFFF>Attack the U.N.E. settlement! If you destroy any of the original settlement structures, it's an automatic win!</color>
-
-<color=#B4B4B4>Hint: Use the Dart Gun to sedate large creatures and ride them into battle</color>","<color=#00FFFF><size=24>U.N.E. Team Objective</size></color>
-
-<color=#FFFFFF>Defend your settlement until the timer runs out. At the end of the game, if All of your structures are still standing, You win!</color>
-
-<color=#B4B4B4>Hint: Win early by destroying all of the Outlander Inflatable Domes</color>
+<color=#B4B4B4>Tipp: Gewinnen Sie früh, indem Sie alle aufblasbaren Kuppeln der Fremden zerstörst.</color>
 
 
-<color=#00FFFF><size=24>Outlander Team Objective:</size></color>
+<color=#00FFFF><size=24>Fremde Team Ziel:</size></color>
 
-<color=#FFFFFF>Attack the U.N.E. settlement! If you destroy any of the original settlement structures, it's an automatic win!</color>
+<color=#FFFFFF>Greifen Sie die U.N.E.-Siedlung an! Wenn Sie eine der ursprünglichen Siedlungsstrukturen zerstören, ist das automatisch ein Sieg!</color>
 
-<color=#B4B4B4>Hint: Use the Dart Gun to sedate large creatures and ride them into battle</color>"
+<color=#B4B4B4>Tip: Benutzen Sie die Pfeilkanone, um große Kreaturen zu betäuben und sie in den Kampf zu reiten.</color>","<color=#00FFFF><size=24>U.N.E. Team Ziele</size></color>
+
+<color=#FFFFFF>Verteidigen Sie Ihre Siedlung, bis der Timer abgelaufen ist. Wenn am Ende des Spiels alle Ihre Gebäude noch stehen, haben Sie gewonnen!</color>
+
+<color=#B4B4B4>Tipp: Gewinnen Sie früh, indem Sie alle aufblasbaren Kuppeln der Fremden zerstörst.</color>
+
+
+<color=#00FFFF><size=24>Fremde Team Ziel:</size></color>
+
+<color=#FFFFFF>Greifen Sie die U.N.E.-Siedlung an! Wenn Sie eine der ursprünglichen Siedlungsstrukturen zerstören, ist das automatisch ein Sieg!</color>
+
+<color=#B4B4B4>Tip: Benutzen Sie die Pfeilkanone, um große Kreaturen zu betäuben und sie in den Kampf zu reiten.</color>"
 "Ready","Ready"
 "Leave","Leave"
 "UNIVERSE","UNIVERSE"
@@ -151,15 +151,11 @@ Create a New Universe and Invite Your Friends To Join!"
 "Difficulty:","Difficulty:"
 "Normal","Normal"
 "The way the game was meant to be played. Battle the elements, search for resources, and monitor your suit readings to stay alive in the harsh climates of space.","The way the game was meant to be played. Battle the elements, search for resources, and monitor your suit readings to stay alive in the harsh climates of space."
-"Easy
-","Easy
-"
+"Easy","Easy"
 "A lighter Osiris: New Dawn experience. You will still need to survive, but the experience is more forgiving. Better for explorers who want less to worry about. ","A lighter Osiris: New Dawn experience. You will still need to survive, but the experience is more forgiving. Better for explorers who want less to worry about. "
 "Extreme","Extreme"
 "Test your survival skill to its limit. Your success is not assured. ","Test your survival skill to its limit. Your success is not assured. "
-"Creative
-","Creative
-"
+"Creative","Creative"
 "Craft anything you'd like without the worry of creatures  or survival gameplay.","Craft anything you'd like without the worry of creatures  or survival gameplay."
 "Custom","Custom"
 "Make your Osiris experience perfect for you!","Make your Osiris experience perfect for you!"
@@ -303,8 +299,11 @@ This system will show you all the surrounding minerals, their hardness and densi
 
 ","Replacing the old skill tree, is, uh, the new skill tree! Instead of grindy gates, you now can unlock actual skills or “perks” that boost your abilities.
 
-"
-"Got it. Let's Go!","Got it. Let's Go!"
+"," die Ihre Fähigkeiten steigern."
+
+";
+Got it. Let's Go!""",";
+Got it. Let's Go!"""
 "* Looting now fully functions on all creatures.","* Looting now fully functions on all creatures."
 "Removal of Build Gates
 ","Removal of Build Gates
@@ -407,9 +406,7 @@ This system will show you all the surrounding minerals, their hardness and densi
 "Empty out","Empty out"
 "Drop","Drop"
 "Customize Colors","Customize Colors"
-"Primary
-","Primary
-"
+"Primary","Primary"
 "LAT","LAT"
 "LONG","LONG"
 "Missions","Missions"
@@ -490,8 +487,7 @@ Respiratory Vitals"
 [Left Shift]","Release
 [Left Shift]"
 "Fine Rotation","Fine Rotation"
-"SHIFT","SHIFT"
-"Control Panel","Control Panel"
+"SHIFT","SHIFT","Schalttafel;"
 "[R] Return All Flank Droids","[R] Return All Flank Droids"
 "[1]","[1]"
 "Droid Nickname","Droid Nickname"
@@ -547,9 +543,7 @@ Soon
 "Light","Light"
 "Module","Module"
 "Attachment Slots","Attachment Slots"
-"Pants
-","Pants
-"
+"Pants","Pants"
 "Knee Pads","Knee Pads"
 "ShouldPads","ShouldPads"
 "External Inventory","External Inventory"
@@ -610,9 +604,7 @@ Soon
 "Target Tracking System","Target Tracking System"
 "Cycle Target","Cycle Target"
 "Resources","Resources"
-"Droids
-","Droids
-"
+"Droids","Droids"
 "Basic Scan Mineral","Basic Scan Mineral"
 "Low Density Minerals","Low Density Minerals"
 "Lithium","Lithium"
@@ -663,7 +655,7 @@ Soon
 "Choose a Position","Choose a Position"
 "Resume","Resume"
 "GPS","GPS"
-"[A] CRAFTING","[A] CRAFTING"
+"CRAFTING","CRAFTING"
 "MISSIONS [D]","MISSIONS [D]"
 "Logs","Logs"
 "Voice Logs","Voice Logs"
@@ -2125,7 +2117,18 @@ NTR"
 <color=silver>Health Bonus: </color><color=white>10</color>
 <color=silver>Nutrition Bonus: </color><color=white>50</color>
 
-<color=white>Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.</color>"
+<color=white>Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.</color>",""
+"<color = silver> Menge: </ color> <color = white> 1/50 </ color>
+<color = silver> Gewicht: </ color> <color = weiß> 0.50 </ color> <color = lime> kgs </ color>
+<color = silver> Gesundheitsbonus: </ color> <color = weiß> 10 </ color>
+<color = silver> Ernährungsbonus: </ color> <color = weiß> 50 </ color>
+
+<Color = white> Fleisch direkt vom Körper einer Einheimischen außerirdischen Kreatur. Wurde gekocht und ist sicher zu essen. </ Color>;","<color = silver> Menge: </ color> <color = white> 1/50 </ color>
+<color = silver> Gewicht: </ color> <color = weiß> 0.50 </ color> <color = lime> kgs </ color>
+<color = silver> Gesundheitsbonus: </ color> <color = weiß> 10 </ color>
+<color = silver> Ernährungsbonus: </ color> <color = weiß> 50 </ color>
+
+<Color = white> Fleisch direkt vom Körper einer Einheimischen außerirdischen Kreatur. Wurde gekocht und ist sicher zu essen. </ Color>;"
 "Backpack","Backpack"
 "Default","Default"
 "Alphabetical","Alphabetical"
