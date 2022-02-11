@@ -1,4 +1,4 @@
-"English","Français;"
+"English","italiano;"
 "Enter","Enter"
 "OK","OK"
 "Public Universes","Public Universes"
@@ -928,6 +928,9 @@ Click on ‘Create Colony.’
 Add other personnel by using the multi tool. Please note that personnel have to belong to the same faction in order to join a colony.
 
 Adding other personnel to an existing colony automatically gives them access to anything that is built or crafted after they joined. In order to give them access to previously built/crafted objects, the creator of the colony needs to give access manually using the multi-tool on each object (make public to colony)."
+"Aggiungi altro personale utilizzando il multi strumento. Si prega di notare che il personale deve appartenere alla stessa fazione per partecipare a una colonia.","Aggiungi altro personale utilizzando il multi strumento. Si prega di notare che il personale deve appartenere alla stessa fazione per partecipare a una colonia."
+
+"L'aggiunta di un altro personale a una colonia esistente dà loro l'accesso a tutto ciò che è costruito o realizzato dopo che si sono uniti. Per dare loro l'accesso a oggetti precedentemente costruiti / predisposti","L'aggiunta di un altro personale a una colonia esistente dà loro l'accesso a tutto ciò che è costruito o realizzato dopo che si sono uniti. Per dare loro l'accesso a oggetti precedentemente costruiti / predisposti"
 "#VALUE!","#VALUE!"
 "Access to utilities","Access to utilities"
 ",MISSING_TRANSLATION;",",MISSING_TRANSLATION;"
